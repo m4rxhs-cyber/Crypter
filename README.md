@@ -5,7 +5,7 @@
 
 ### It's a crypter and decrypter based in Cezar's cipher
 
-## In addition to CRUD, I implement other features such as:
+## Crypter features:
 
 * Encrypt the message
 * Decrypt the message
