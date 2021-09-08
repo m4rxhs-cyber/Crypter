@@ -27,7 +27,7 @@
 1) Click in folder "crypter"
 2) Click in "crypt.exe"
 3) Click in download
-4) Run shell: cd <where you saved the crypter>
+4) Run shell: cd and where you saved the crypter
 5) Run shell: crypt.exe
 
 
