@@ -30,4 +30,4 @@
 4) run shell: cd <where you saved the crypter>
 5) run shell: crypt.exe
 
-<center><img src="https://user-images.githubusercontent.com/38620899/106393900-5aa85880-63d8-11eb-88f1-07ac30adad80.gif"></center>
+
