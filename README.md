@@ -24,10 +24,10 @@
 
 ## How to run the application:
 
-1) click in folder "crypter"
-2) click in "crypt.exe"
-3) click in download
-4) run shell: cd <where you saved the crypter>
-5) run shell: crypt.exe
+1) Click in folder "crypter"
+2) Click in "crypt.exe"
+3) Click in download
+4) Run shell: cd <where you saved the crypter>
+5) Run shell: crypt.exe
 
 
