@@ -25,7 +25,7 @@
 
 ## How to run the application:
 
-1) Click in folder 📁 "crypter"
+1) Click in folder 📁 "Crypter"
 2) Click in "crypt.exe"
 3) Click in download
 4) Go to the folder where you saved the crypt.exe
